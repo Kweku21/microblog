@@ -14,3 +14,8 @@ If you would rather use the Gitpod development environment for this app:
 
 - Change the dropdown that says "Web IDE" to "Gitpod" (if it already says "Gitpod" skip this step)
 - Click the button that says "Gitpod"
+
+
+## Home Page changes
+
+![Home Page](/screenshot/home-page.png "Home Page")
